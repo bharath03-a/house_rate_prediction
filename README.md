@@ -1,2 +1,2 @@
-# house_rate_prediction
+# House Rate Prediction
  
